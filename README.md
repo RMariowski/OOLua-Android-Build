@@ -25,5 +25,6 @@ Ready to build project of oolua for android.
 >include $(PREBUILT_STATIC_LIBRARY)
 
 3.
->LOCAL_STATIC_LIBRARIES := [other static libs or none] oolua lua
+>LOCAL_STATIC_LIBRARIES := [other static libs or none] oolua lua  
+
 Note that lua lib is **after** oolua!
