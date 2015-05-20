@@ -1,10 +1,10 @@
-Lua Android Build
+OOLua Android Build
 ===========
 
 Ready to build project of oolua for android.
 
 **Lua version:** 5.2.2  
-**OOLua version:** 2.0
+**OOLua version:** 2.0.0    
 **Library type:** static
 
 
